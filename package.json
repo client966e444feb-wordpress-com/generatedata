@@ -115,7 +115,7 @@
     "pretty-bytes": "^5.4.1",
     "randomcolor": "^0.6.2",
     "react": "^16.13.1",
-    "react-beautiful-dnd": "^12.2.0",
+    "react-beautiful-dnd": "^13.1.1",
     "react-codemirror2": "^7.1.0",
     "react-copy-to-clipboard": "^5.0.2",
     "react-countup": "^4.3.3",
